@@ -2,7 +2,7 @@
 
 How to Run Instructions:
 
-1. Obtain a local copy of the software by executing the following Git command: git clone https://github.com/JayCaithesan/Accept-the-Cookies or unzip the download folder
+1. Obtain a local copy of the software by executing the following Git command: git clone https://github.com/ShianLiChen/Accept-the-Cookies-Retail-Website.git or unzip the download folder
 2. Navigate to the newly created directory Accept-the-Cookies using the Command Prompt and execute the command npm install to download all required dependencies for the project.
 3. Ensure that the MongoDB database management system and the MongoDB Compass GUI client are both installed on your machine.
 4. Connect to MongoDB Compass and create a new database named AcceptTheCookies and a collection named Accounts.
