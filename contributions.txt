@@ -1,6 +1,6 @@
 Contributions by each group member:
 
--Shian Li Chen (100813628) = 
+-Shian Li Chen= 
     -creation of the contact page including HTML, CSS and JS
         -includes the usage of:
             -font awesome
@@ -39,7 +39,7 @@ Contributions by each group member:
         -JSON: poll.json
 
 
--Thanushan Satheeskumar (100784004)=
+-Thanushan Satheeskumar=
     - Navbar (Structure with HTML, Styling with Bootstrap + CSS, Logo Creation with Canva.com)
     - Home Page (Structure with HTML, Styling with Bootstrap + CSS, Functionality with jQuery)
     - Products Page (Structure with HTML, Styling with Bootstrap + CSS, Functionality with JavaScript + jQuery + AJAX)
@@ -51,7 +51,7 @@ Contributions by each group member:
         -IMG: imported all jpg and png files
         -JS: product.js
 
--James Yang (100838500)=
+-James Yang=
     -Sign in/ sign up functionality
         -pug
         -session ID
@@ -69,7 +69,7 @@ Contributions by each group member:
         -CSS: chat.css,adminChat.css
         -CSV: Account.csv
 
--Jayanthan Caithesan (100828033)=
+-Jayanthan Caithesan=
     -Helped pick wed app colour scheme
     -Home Page(Designed page structure, helped create HTML structure, styling with bootstrap)
     -Products Page (Designed page structure,added more data to products json, added a product quantity value)
@@ -81,7 +81,7 @@ Contributions by each group member:
         -Readme: created readme
         -Recording: recorded project video, explained website design and use
 
--Ryan Don (100824494)=
+-Ryan Don=
     -creation of cart page and creation/usage of cart.json file
         -includes the usage of:
             -font awesome
@@ -102,7 +102,7 @@ Contributions by each group member:
         -Readme: created readme
         -Recording: recorded project video, explained website design and use
 
--Joshua Jesuthasan (100820441)=
+-Joshua Jesuthasan=
     -helped with some debugging
     -helped edit readMe
     -helped with with styling of cart page
