@@ -10,4 +10,4 @@ How to Run Instructions:
 6. Launch the node.js application by executing the command nodemon from the Command Prompt.
 7. Access the deployed application from a web browser by navigating to the URL http://localhost:3000/
 
-Note: usernames and passwords for the page login can be found in the Accounts.csv file in the 4MongoDBimportData directory 
+**Note:** usernames and passwords for the page login can be found in the Accounts.csv file in the 4MongoDBimportData directory 
